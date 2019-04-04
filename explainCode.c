@@ -29,14 +29,14 @@ int main(int argc, char const *argv[])
 
     //
     while(1){
-        
+
     }
 
     return 0;
 }
 /**
  * Task2:
- * Dose the code run ever reach to return, if no explain why that's so 
+ * Dose the code run ever reach return, if no explain why that is so 
  * 
  * -
  */
@@ -50,7 +50,7 @@ int main(int argc, char const *argv[])
 
 /**
  * Task4:
- * Explain the purpuse of %d in printf() func call
+ * Explain the purpuse of %d in printf() function call.
  * 
  * -
  */
