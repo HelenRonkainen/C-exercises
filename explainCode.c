@@ -14,7 +14,7 @@
 #include <stdio.h>
 
 //
-int main()
+int main(int argc, char const *argv[])
 {
     //
     int amount = 5;
@@ -24,27 +24,32 @@ int main()
     //
     for(int i = 0; i < amount; i++)
     {
-        printf("Hello, World! %d", i);
+        printf("Hello, World! %d \n", i);
     }
 
     //
-    while(1)
-    {
-
+    while(1){
+        
     }
 
     return 0;
 }
+/**
+ * Task2:
+ * Dose the code run ever reach to return, if no explain why that's so 
+ * 
+ * -
+ */
 
 /**
- * Taks2:
+ * Taks3:
  * Explain the flow of the code.
  * 
  * -
  */
 
 /**
- * Task3:
+ * Task4:
  * Explain the purpuse of %d in printf() func call
  * 
  * -
